@@ -10,3 +10,5 @@ https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1206/lectures/huffman-co
 https://www.youtube.com/watch?v=f866lUTRXE4
 
 https://www.youtube.com/watch?v=JuvrTQapI_k
+
+https://brilliant.org/wiki/huffman-encoding/
